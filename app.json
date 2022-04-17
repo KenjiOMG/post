@@ -1,7 +1,9 @@
-"name": "X Minecraft",
-    "description": "A simple",
-    "repository": "https://github.com/KeimaSenpai/X-Minecraft-Post-Bot",
+{
+    "name": "post-bot",
     "env": {
         "TELEGRAM_TOKEN": {
-            "description": "Your Bot token from @Botfather"
+            "description": "el token del bot de telegram que te da https://t.me/BotFather",
+            "value": "5132958550:AAG0J9Cinzu1N_7Jpa5r-WtjaUirXOyFWVU"
         }
+    }
+}
