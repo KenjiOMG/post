@@ -35,7 +35,7 @@ def facts_to_str(user_data: Dict[str, str]):
     partes = user_data['partes']
     argumento = user_data['argumento']
     return (
-        f'☘️<b>{nombre}☘️</b>\n\n\n🗂️ <b>Categoría:</b> {categoria}\n⚙️ <b>Plataform:</b> {plataform}'
+        f'☘️<b>{nombre}☘️</b>\n\n\n🗂️ <b>Categoría:</b> {categoria}\n⚙️ <b>Plataform:</b> {plataforma}'
         f'\n📦 <b>Peso:</b> {peso}\n\n🧾 <b>Verción:</b> {vercion}\n\n🗜️ <b>Partes:</b> {partes}\n\n'
         f'\n📝 <b>Argumento:</b> {argumento}\n\n\n📤'
         '<b>Subido por:</b> <a href="tg://user?id={user}">{name}</a>\n\n'
