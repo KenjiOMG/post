@@ -1,7 +1,7 @@
 # Admnistradores
 # Para añadir más separalos por comas
 administradores = [
-    5487512576, 1618347551, 1180073584
+    5487512576, 1618347551, 1180073584, 1571737479
     ]
 
 # Canal a donde se envia la plantilla
