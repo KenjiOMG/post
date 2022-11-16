@@ -35,11 +35,11 @@ def facts_to_str(user_data: Dict[str, str]):
     partes = user_data['partes']
     argumento = user_data['argumento']
     return (
-        f'☘️<b>{nombre}☘️</b>\n\n\n🗂️ <b>Categoría:</b> {categoria}\n\n⚙️ <b>Plataform:</b> {plataforma}\n\n'
-        f'📦 <b>Peso:</b> {peso}\n\n🧾 <b>Verción:</b> {vercion}\n\n🗜️ <b>Partes:</b> {partes}\n\n'
-        f'📝 <b>Argumento:</b> {argumento}\n\n\n📤'
-        '<b>Subido por:</b> <a href="tg://user?id={user}">{name}</a>\n\n'
-        '🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲\n⛰️ <a href="https://t.me/x_minecraft_archive"><b>X Minecraft Archive</b></a> ⛰️'
+        f'☘️<b>{nombre}☘️</b>\n\n\n🗂️ <b>Categoría:</b> {categoria}\n⚙️ <b>Plataforma:</b> {plataforma}\n'
+        f'📦 <b>Peso:</b> {peso}\n🧾 <b>Versión:</b> {vercion}\n🗜️ <b>Partes:</b> {partes}\n\n'
+        f'📝 <b>Argumento:</b> {argumento}\n\n📤'
+        '<b>Subido por:</b> <a href="tg://user?id={user}">{name}</a>\n'
+        '⚝━━━━━━━━━━━━━━━━━━━━━━⚝\n⛰️ <a href="https://t.me/minecraftxoficial"><b>X Minecraft</b></a> ⛰️'
     )
 
 
