@@ -1,7 +1,6 @@
 # Post-Bot-Channel
 
-Variables ***TELEGRAM_TOKEN***
-
+Variables ___TELEGRAM_TOKEN___
 Bot de Telegram para crear plantillas de forma rápida y enviarlas a un canal.
 
 ## Créditos @Ravenclawldz
