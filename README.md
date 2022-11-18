@@ -10,7 +10,3 @@ Bot de Telegram para crear plantillas de forma rápida y enviarlas a un canal.
   </tr>
 </table>
 
-
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
